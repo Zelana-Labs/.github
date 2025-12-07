@@ -1,7 +1,8 @@
-Hello👋
+Gm👋
 
-This is Zelana the ZK rollup on Solana
+This is Zelana the privacy focused ZK rollup on Solana
 
 Main goals:
-- Privacy
+- Privacy at the speed of light
 - Speed of proving
+- Privacy to the core
